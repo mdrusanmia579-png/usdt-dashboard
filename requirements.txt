@@ -1,0 +1,1 @@
+Flask==3.1.1\nFlask-SQLAlchemy==3.1.1\npython-dotenv==1.1.1\ngunicorn==23.0.0\npsycopg2-binary==2.9.10
